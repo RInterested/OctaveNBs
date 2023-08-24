@@ -1,3 +1,4 @@
+pkg load statistics
 mu = [0,0]; %// data
 sigma = [1 0; 0 4]; %// data
 x = -5:.2:5; %// x axis

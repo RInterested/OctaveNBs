@@ -1,1 +1,0 @@
-collatzplot(100)
